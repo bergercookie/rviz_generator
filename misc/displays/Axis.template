@@ -1,0 +1,8 @@
+- Class: rviz/Axes
+    Enabled: true
+    Length: 1
+    Name: DISPLAY_NAME
+    Radius: 0.1
+    Reference Frame: REF_FRAME
+    Value: true
+

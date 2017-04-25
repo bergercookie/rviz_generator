@@ -1,0 +1,12 @@
+- Class: rviz/Image
+  Enabled: true
+  Image Topic: TOPIC_NAME
+  Max Value: 1
+  Median window: 5
+  Min Value: 0
+  Name: DISPLAY_NAME
+  Normalize Range: true
+  Queue Size: 2
+  Transport Hint: raw
+  Unreliable: false
+  Value: true

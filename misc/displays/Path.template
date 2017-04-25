@@ -1,0 +1,23 @@
+- Alpha: 1
+    Buffer Length: 1
+    Class: rviz/Path
+    Color: 0; 0; 255
+    Enabled: true
+    Head Diameter: 0.3
+    Head Length: 0.2
+    Length: 0.3
+    Line Style: Lines
+    Line Width: 0.03
+    Name: DISPLAY_NAME
+    Offset:
+    X: 0
+    Y: 0
+    Z: 0
+    Pose Style: None
+    Radius: 0.03
+    Shaft Diameter: 0.1
+    Shaft Length: 0.1
+    Topic: TOPIC_NAME
+    Unreliable: false
+    Value: true
+

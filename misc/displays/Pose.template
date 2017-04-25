@@ -1,0 +1,16 @@
+- Alpha: 1
+    Axes Length: 1
+    Axes Radius: 0.1
+    Class: rviz/Pose
+    Color: 255; 25; 0
+    Enabled: true
+    Head Length: 0.3
+    Head Radius: 0.1
+    Name: DISPLAY_NAME
+    Shaft Length: 1
+    Shaft Radius: 0.05
+    Shape: Arrow
+    Topic: TOPIC_NAME
+    Unreliable: false
+    Value: true
+

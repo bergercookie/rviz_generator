@@ -1,0 +1,10 @@
+- Alpha: 0.7
+    Class: rviz/Map
+    Color Scheme: map
+    Draw Behind: false
+    Enabled: true
+    Name: DISPLAY_NAME
+    Topic: TOPIC_NAME
+    Unreliable: false
+    Value: true
+

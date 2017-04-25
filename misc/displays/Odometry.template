@@ -1,0 +1,11 @@
+- Angle Tolerance: 0.1
+    Class: rviz/Odometry
+    Color: 255; 25; 0
+    Enabled: false
+    Keep: 100
+    Length: 1
+    Name: DISPLAY_NAME
+    Position Tolerance: 0.1
+    Topic: TOPIC_NAME
+    Value: false
+
